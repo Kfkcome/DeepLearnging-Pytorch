@@ -17,12 +17,12 @@
 
 就比如要区分道路是否有坑
 
-![normal1.jpg](..%2Fmathercup%2Fdata%2Fnormal%2Fnormal1.jpg)
+![normal1.jpg](assset/normal1.jpg)
 
 给他这张图的同时要告诉他是正常的道路
 
 给出这张图的同时告诉他是坑洼的道路
-![potholes00002.jpg](..%2Fmathercup%2Fdata%2Fpotholes%2Fpotholes00002.jpg)
+![potholes00002.jpg](assset/potholes00002.jpg)
 
 其次就是数据集的数量**至少要有500张以上**才好，不然会过拟合，模型效果也不好
 
